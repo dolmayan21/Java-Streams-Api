@@ -1,13 +1,34 @@
 package com.java.dolmayan.JavaStreamsApi.Fundamentals;
 
 import java.sql.SQLOutput;
-import java.util.Comparator;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class FunctionalPrograming02 {
 
+    /**
+     *
+     *  Intermediate Operations
+     *
+     * map()   // modify the value
+     * filter()  Stream<T>
+     * distinct()
+     * sorted()
+     *
+     * forEach  // Void valuue
+     * reduce // T
+     */
+
     public static void main(String[] args) {
         List<Integer> numbers = List.of(12,9,13,4,6,2,4,12,15);
+
+        List<Integer> doubledNumbers = doubleList(numbers);
+
+        List<Integer> evenNumbersOnly = numbers.stream()
+                                        .filter(n->n%2 ==0)
+                                            .collect(Collectors.toList());
+
+
         List<String> courses = List.of("Zwagger","Spring", "Spring Boot", "API" , "Microservices","AWS", "PCF","Azure", "Docker", "Kubernetes", "API" );
 
         int sum = addListFunctional(numbers);
@@ -36,18 +57,21 @@ public class FunctionalPrograming02 {
 
 
 
+            doubledNumbers.stream().filter(n->n%2 ==0).forEach(System.out::println);
 
-
-
-
-
-
-
+ 
 
 
        // System.out.println(number);
 
     }
+
+    private static List<Integer> doubleList(List<Integer> numbers) {
+        return numbers.stream()
+                .map(num -> num*num)
+                .collect(Collectors.toList());
+    }
+
 
     private static int sum(int aggregate, int nextNumber){
         System.out.println(aggregate + "  "+ nextNumber);
