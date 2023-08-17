@@ -1,4 +1,4 @@
-package com.java.dolmayan.JavaStreamsApi.Fundamentals;
+package com.java.dolmayan.JavaStreamsApi.apifundamentals;
 
 import java.util.List;
 import java.util.function.BinaryOperator;
