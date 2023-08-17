@@ -1,5 +1,6 @@
 package com.java.dolmayan.JavaStreamsApi.Fundamentals;
 
+import java.awt.*;
 import java.sql.SQLOutput;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -33,6 +34,10 @@ public class FunctionalPrograming02 {
 
         int sum = addListFunctional(numbers);
 
+        courses.stream()
+                .map(x->x.length())
+                .sorted().forEach(System.out::println);
+
         //System.out.println(sum);
         int number = 0;
 
@@ -56,7 +61,7 @@ public class FunctionalPrograming02 {
          */
 
 
-        doubledNumbers.stream().filter(n->n%2 ==0).forEach(System.out::println);
+        //doubledNumbers.stream().filter(n->n%2 ==0).forEach(System.out::println);
 
        // System.out.println(number);
 
