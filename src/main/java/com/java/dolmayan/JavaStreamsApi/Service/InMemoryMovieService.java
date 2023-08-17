@@ -3,7 +3,7 @@ package com.java.dolmayan.JavaStreamsApi.Service;
 import com.java.dolmayan.JavaStreamsApi.domain.Director;
 import com.java.dolmayan.JavaStreamsApi.domain.Genre;
 import com.java.dolmayan.JavaStreamsApi.domain.Movie;
-import com.java.dolmayan.JavaStreamsApi.model.CriteriaBean;
+import com.java.dolmayan.JavaStreamsApi.Model.CriteriaBean;
 
 import java.util.ArrayList;
 import java.util.Collection;
