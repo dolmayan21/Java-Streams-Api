@@ -56,11 +56,7 @@ public class FunctionalPrograming02 {
          */
 
 
-
-            doubledNumbers.stream().filter(n->n%2 ==0).forEach(System.out::println);
-
- 
-
+        doubledNumbers.stream().filter(n->n%2 ==0).forEach(System.out::println);
 
        // System.out.println(number);
 
