@@ -1,4 +1,4 @@
-package com.java.dolmayan.JavaStreamsApi.apifundamentals;
+package com.java.dolmayan.JavaStreamsApi.ApiFundamentals;
 
 public class BehaviorParameterization {
 

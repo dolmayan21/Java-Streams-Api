@@ -1,4 +1,4 @@
-package com.java.dolmayan.JavaStreamsApi.model;
+package com.java.dolmayan.JavaStreamsApi.Model;
 
 
 /**
