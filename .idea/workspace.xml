@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a7dca68-e4cd-4e7c-aad7-84a147d38fa0" name="Changes" comment="FunctionalPrograming">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/Fundamentals/FunctionalPrograming01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/Fundamentals/FunctionalPrograming02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/RunnableLambdaExample.java" afterDir="false" />
+    <list default="true" id="3a7dca68-e4cd-4e7c-aad7-84a147d38fa0" name="Changes" comment="Refactoring classes">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/FunctionalPrograming.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -30,26 +28,35 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2TZsP8Ql1MI48MdAXqlfh95U0Dj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Leoncitos/Documents/IntelliJWorkspace/java-8&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Leoncitos/Documents/IntelliJWorkspace/Java-Streams-Api/Java-Streams-Api/src/main/java/com/java/dolmayan/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Leoncitos/Documents/IntelliJWorkspace/ExternalProjects/stream-api-exercises-part1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "D:/Leoncitos/Documents/IntelliJWorkspace/Java-Streams-Api/Java-Streams-Api/src/main/java/com/java/dolmayan/Main.java",
+    "settings.editor.selected.configurable": "sonarlint",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.java.dolmayan.JavaStreamsApi.Fundamentals" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Java-Streams-Api" />
@@ -77,7 +84,10 @@
       <workItem from="1691262040237" duration="1079000" />
       <workItem from="1691430004713" duration="2210000" />
       <workItem from="1691719693393" duration="3996000" />
-      <workItem from="1692068741102" duration="3819000" />
+      <workItem from="1692068741102" duration="9453000" />
+      <workItem from="1692289232907" duration="4192000" />
+      <workItem from="1692295408391" duration="2136000" />
+      <workItem from="1692300243892" duration="2809000" />
     </task>
     <task id="LOCAL-00001" summary="Project first commit">
       <created>1691262076518</created>
@@ -100,7 +110,98 @@
       <option name="project" value="LOCAL" />
       <updated>1692070702743</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="FunctionalPrograming01 Updated">
+      <created>1692208720832</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692208720832</updated>
+    </task>
+    <task id="LOCAL-00005" summary="FunctionalPrograming02 Added">
+      <created>1692208736498</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692208736498</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Project Updates">
+      <created>1692208774646</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692208774646</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Project Updates">
+      <created>1692208807067</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692208807067</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Project Updates">
+      <created>1692208822286</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692208822286</updated>
+    </task>
+    <task id="LOCAL-00009" summary="FunctionalPrograming02 Updated">
+      <created>1692216093559</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1692216093559</updated>
+    </task>
+    <task id="LOCAL-00010" summary="FunctionalPrograming02 Updated">
+      <created>1692217261093</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1692217261093</updated>
+    </task>
+    <task id="LOCAL-00011" summary="FunctionalPrograming02 Updated">
+      <created>1692292851387</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1692292851387</updated>
+    </task>
+    <task id="LOCAL-00012" summary="FunctionalPrograming03 Added">
+      <created>1692297018716</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692297018716</updated>
+    </task>
+    <task id="LOCAL-00013" summary="FunctionalPrograming02 Updated">
+      <created>1692297036636</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1692297036636</updated>
+    </task>
+    <task id="LOCAL-00014" summary="BehaviorParameterization Added">
+      <created>1692297063856</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1692297063856</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Those classes where taken from the github user deepcloudlabs  (Binnur KURT)">
+      <created>1692302191784</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1692302191784</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Refactoring classes">
+      <created>1692302464897</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1692302464897</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +210,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project first commit" />
     <MESSAGE value="FunctionalPrograming" />
-    <option name="LAST_COMMIT_MESSAGE" value="FunctionalPrograming" />
+    <MESSAGE value="FunctionalPrograming01 Updated" />
+    <MESSAGE value="FunctionalPrograming02 Added" />
+    <MESSAGE value="Project Updates" />
+    <MESSAGE value="FunctionalPrograming03 Added" />
+    <MESSAGE value="FunctionalPrograming02 Updated" />
+    <MESSAGE value="BehaviorParameterization Added" />
+    <MESSAGE value="Those classes where taken from the github user deepcloudlabs  (Binnur KURT)" />
+    <MESSAGE value="Refactoring classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring classes" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
