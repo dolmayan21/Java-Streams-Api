@@ -1,4 +1,4 @@
-package com.java.dolmayan.JavaStreamsApi.Service;
+package com.java.dolmayan.JavaStreamsApi.dao;
 
 
 import com.java.dolmayan.JavaStreamsApi.domain.Director;
