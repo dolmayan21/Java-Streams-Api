@@ -1,0 +1,30 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óØ˜ºÿÿÿÿÿ
+V
+java:S1854
+";Remove this useless assignment to local variable "numbers".(¯š¢øúÿÿÿÿ
+G
+java:S1481
+",Remove this unused "numbers" local variable.(¯š¢øúÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(—àÍ¢
+V	java:S125"<This block of commented-out lines of code should be removed.(òŒðÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(À–¥ñýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÒìÍ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ó¤¢‹
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(”áû×úÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+T
+java:S1144">Remove this unused private "printSquaresOfOddsNumbers" method.(Ö÷Ä¶
+R
+java:S1144&"<Remove this unused private "printCubesOfEvenNumbers" method.(Í±ñ¼
+O
+java:S1144-"4Remove this unused private "printOddNumbers" method.(…‰þýÿÿÿÿ
+A
+java:S11443"+Remove this unused private "isEven" method.(ãÆË
+_
+java:S11447"DRemove this unused private "printAllNumbersInListStructured" method.(œÑÌûÿÿÿÿ
+J
+java:S1144;"5Remove this unused private "printEvenNumbers" method.(á„¡}

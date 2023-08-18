@@ -1,4 +1,4 @@
-package Controller;
+package com.java.dolmayan.JavaStreamsApi.Controller;
 
 import com.java.dolmayan.JavaStreamsApi.dao.CountryDao;
 import com.java.dolmayan.JavaStreamsApi.Service.InMemoryWorldDao;

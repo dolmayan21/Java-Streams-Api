@@ -1,0 +1,42 @@
+
+>
+java:S1604"(Make this anonymous inner class a lambda(»Ä¨©
+C
+java:S1604"(Make this anonymous inner class a lambda(Ë¯â—ûÿÿÿÿ
+C
+java:S1604'"(Make this anonymous inner class a lambda(Óäñüÿÿÿÿ
+C
+java:S16045"(Make this anonymous inner class a lambda(Šıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óØ˜ºÿÿÿÿÿ
+M
+java:S1854<"7Remove this useless assignment to local variable "sum".(ÀÁ™Ç
+a
+java:S18545"FRemove this useless assignment to local variable "sumBinaryOperator2".(Šıÿÿÿÿ
+^
+java:S1854'"CRemove this useless assignment to local variable "sysoutConsumer2".(Óäñüÿÿÿÿ
+^
+java:S1854"CRemove this useless assignment to local variable "squareFunction2".(Ë¯â—ûÿÿÿÿ
+Z
+java:S1854"DRemove this useless assignment to local variable "isEvenPredicate2".(»Ä¨©
+h
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(»Ä¨©
+K
+java:S1481"5Remove this unused "isEvenPredicate2" local variable.(»Ä¨©
+r
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(ş·¿’
+q
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(Ë¯â—ûÿÿÿÿ
+O
+java:S1481"4Remove this unused "squareFunction2" local variable.(Ë¯â—ûÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(´¯íÄüÿÿÿÿ
+l
+java:S4276'"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(Óäñüÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ
+O
+java:S1481'"4Remove this unused "sysoutConsumer2" local variable.(Óäñüÿÿÿÿ
+r
+java:S42765"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(Šıÿÿÿÿ
+R
+java:S14815"7Remove this unused "sumBinaryOperator2" local variable.(Šıÿÿÿÿ
+>
+java:S1481<"(Remove this unused "sum" local variable.(ÀÁ™Ç

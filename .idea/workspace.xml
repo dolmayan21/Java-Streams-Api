@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a7dca68-e4cd-4e7c-aad7-84a147d38fa0" name="Changes" comment="Project Settings">
-      <change afterPath="$PROJECT_DIR$/DummyObjectGenerator/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummyObjectGenerator/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummyObjectGenerator/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummyObjectGenerator/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummyObjectGenerator/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummyObjectGenerator/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummyObjectGenerator/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummyObjectGenerator/src/main/java/com/java/dolmayan/dummyobject/DummyObjectGeneratorApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummyObjectGenerator/src/main/java/com/java/dolmayan/dummyobject/ServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummyObjectGenerator/src/main/java/com/java/dolmayan/dummyobject/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummyObjectGenerator/src/main/java/com/java/dolmayan/dummyobject/util/JSONToObjectExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummyObjectGenerator/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummyObjectGenerator/src/main/resources/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DummyObjectGenerator/src/test/java/com/java/dolmayan/dummyobject/DummyObjectGeneratorApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Controller/CityController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/Service/InMemoryWorldDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/dao/CityDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/dao/CountryDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/dao/WorldDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/Service/InMemoryMovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/Service/InMemoryMovieService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/Service/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/dao/MovieService.java" afterDir="false" />
-    </list>
+    <list default="true" id="3a7dca68-e4cd-4e7c-aad7-84a147d38fa0" name="Changes" comment="Project updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +87,7 @@
       <workItem from="1692289232907" duration="4192000" />
       <workItem from="1692295408391" duration="2136000" />
       <workItem from="1692300243892" duration="4601000" />
-      <workItem from="1692378270797" duration="2428000" />
+      <workItem from="1692378270797" duration="3143000" />
     </task>
     <task id="LOCAL-00001" summary="Project first commit">
       <created>1691262076518</created>
@@ -232,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692324233807</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Project updated">
+      <created>1692382206823</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1692382206823</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +233,8 @@
     <MESSAGE value="Those classes where taken from the github user deepcloudlabs  (Binnur KURT)" />
     <MESSAGE value="Refactoring classes" />
     <MESSAGE value="Project Settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project Settings" />
+    <MESSAGE value="Project updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project updated" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

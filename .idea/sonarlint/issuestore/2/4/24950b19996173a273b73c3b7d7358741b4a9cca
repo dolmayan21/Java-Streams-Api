@@ -1,0 +1,29 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óØ˜ºÿÿÿÿÿ
+M
+java:S1854!"7Remove this useless assignment to local variable "sum".(Œñï•
+^
+java:S1854"CRemove this useless assignment to local variable "evenNumbersOnly".(îÊˆÎþÿÿÿÿ
+X
+java:S1854"BRemove this useless assignment to local variable "doubledNumbers".(‚¬åâ
+I
+java:S1481"3Remove this unused "doubledNumbers" local variable.(‚¬åâ
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+O
+java:S1481"4Remove this unused "evenNumbersOnly" local variable.(îÊˆÎþÿÿÿÿ
+>
+java:S1481!"(Remove this unused "sum" local variable.(Œñï•
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(žŠÑÈýÿÿÿÿ
+V	java:S125'"<This block of commented-out lines of code should be removed.(þ¹èøüÿÿÿÿ
+F
+java:S1481("+Remove this unused "number" local variable.(ÅÊŠüøÿÿÿÿ
+V	java:S125,"<This block of commented-out lines of code should be removed.(ÀÜÅ¡øÿÿÿÿ
+V	java:S125>"<This block of commented-out lines of code should be removed.(÷Îÿ”ùÿÿÿÿ
+V	java:S125@"<This block of commented-out lines of code should be removed.(´ïÝÞøÿÿÿÿ
+h
+java:S6204G"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(’ÊÇš
+V	java:S125R"<This block of commented-out lines of code should be removed.(Ÿ¨“¾úÿÿÿÿ
+C
+java:S1144K"(Remove this unused private "sum" method.(ŒÏÎàüÿÿÿÿ
