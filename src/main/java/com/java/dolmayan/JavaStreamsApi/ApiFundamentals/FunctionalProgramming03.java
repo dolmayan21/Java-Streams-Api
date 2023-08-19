@@ -43,7 +43,7 @@ public class FunctionalProgramming03 {
         };
 
         numbers.stream()
-                .filter(isEvenPredicate)
+               // .filter(isEvenPredicate)
                 .map(squareFunction)
                 .forEach(sysoutConsumer);
 
