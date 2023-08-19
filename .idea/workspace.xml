@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a7dca68-e4cd-4e7c-aad7-84a147d38fa0" name="Changes" comment="Project updated" />
+    <list default="true" id="3a7dca68-e4cd-4e7c-aad7-84a147d38fa0" name="Changes" comment="Project updated">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/ConsumerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/_Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/model/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/model/StudentDataBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalProgramming03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalProgramming03.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -87,7 +95,7 @@
       <workItem from="1692289232907" duration="4192000" />
       <workItem from="1692295408391" duration="2136000" />
       <workItem from="1692300243892" duration="4601000" />
-      <workItem from="1692378270797" duration="3143000" />
+      <workItem from="1692378270797" duration="6229000" />
     </task>
     <task id="LOCAL-00001" summary="Project first commit">
       <created>1691262076518</created>
@@ -215,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1692382206823</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Project updated">
+      <created>1692382287589</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1692382287589</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Project updated">
+      <created>1692382369167</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1692382369167</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
