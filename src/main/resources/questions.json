@@ -1,0 +1,29 @@
+{
+  "question": [
+    {
+      "questionText": "What is the best programming language",
+      "options": [
+        "php",
+        "java",
+        "c++"
+      ],
+      "answer": "php",
+      "type": "mcq"
+    },
+    {
+      "questionText": "Favourite cheese",
+      "options": [
+        "gouda",
+        "goat",
+        "parmesian"
+      ],
+      "answer": "gouda",
+      "type": "mcq"
+    },
+    {
+      "questionText": "My name is ______",
+      "answer": "zach",
+      "type": "fib"
+    }
+  ]
+}
