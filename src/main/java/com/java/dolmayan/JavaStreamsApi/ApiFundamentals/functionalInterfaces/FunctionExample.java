@@ -1,8 +1,5 @@
-package com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces;
+package com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces;
 
-import com.java.dolmayan.JavaStreamsApi.ApiFundamentals.model.Student;
-
-import java.util.List;
 import java.util.function.Function;
 
 public class FunctionExample {

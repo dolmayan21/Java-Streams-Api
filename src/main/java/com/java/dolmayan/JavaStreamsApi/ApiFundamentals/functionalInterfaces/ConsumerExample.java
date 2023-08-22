@@ -1,4 +1,4 @@
-package com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces;
+package com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces;
 
 import com.java.dolmayan.JavaStreamsApi.ApiFundamentals.model.Student;
 import com.java.dolmayan.JavaStreamsApi.ApiFundamentals.model.StudentDataBase;
@@ -11,6 +11,7 @@ public class ConsumerExample {
     /**
      * forEach
      */
+
     static Consumer<Student> c2 = (s) -> System.out.println(s);
     static Consumer<Student> c3 = (s) -> System.out.println(s.getName());
     static Consumer<Student> c4 = (s) -> System.out.println(s.getActivities());

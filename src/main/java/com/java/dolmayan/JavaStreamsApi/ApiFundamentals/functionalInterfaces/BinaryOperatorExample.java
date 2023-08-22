@@ -1,9 +1,14 @@
-package com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces;
+package com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces;
 
 import java.util.Comparator;
 import java.util.function.BinaryOperator;
 
 public class BinaryOperatorExample {
+
+    /**
+     * map
+     * same Input Type same Output Type
+     */
 
     static Comparator<Integer> comparator = (a,b) -> a.compareTo(b);
 

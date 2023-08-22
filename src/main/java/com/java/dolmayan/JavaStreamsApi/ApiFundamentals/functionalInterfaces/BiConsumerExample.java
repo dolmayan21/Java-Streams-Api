@@ -1,4 +1,4 @@
-package com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces;
+package com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces;
 
 import com.java.dolmayan.JavaStreamsApi.ApiFundamentals.model.Student;
 import com.java.dolmayan.JavaStreamsApi.ApiFundamentals.model.StudentDataBase;
@@ -7,7 +7,12 @@ import java.util.List;
 import java.util.function.BiConsumer;
 
 public class BiConsumerExample {
-    /** Consumer Interface will only accept the input
+
+
+    /**
+     * forEach
+     *
+     * Consumer Interface will only accept the input
      * and it doesn't return any output out of that
      */
 

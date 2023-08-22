@@ -4,14 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a7dca68-e4cd-4e7c-aad7-84a147d38fa0" name="Changes" comment="Function updated">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/BiFunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/BinaryOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/FunctionExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/SupplierExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/UnaryOperatorExample.java" afterDir="false" />
+    <list default="true" id="3a7dca68-e4cd-4e7c-aad7-84a147d38fa0" name="Changes" comment="Project updates">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/methodReferences/ConsumerMethodReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/methodReferences/FunctionMethodReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/methodReferences/RefactorMethodReferenceExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/FunctionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/FunctionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/BiConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/BiConsumerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/BiFunctionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/BiFunctionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/BinaryOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/BinaryOperatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/ConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/ConsumerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/FunctionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/FunctionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/FunctionExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/FunctionExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/PredicateAndConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/PredicateAndConsumerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/PredicateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/PredicateExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/PredicateExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/PredicateExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/SupplierExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/SupplierExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/UnaryOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/UnaryOperatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/_Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/_Function.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +65,7 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "sonarlint",
+    "settings.editor.selected.configurable": "inlay.hints",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -65,13 +74,13 @@
       <recent name="com.java.dolmayan.JavaStreamsApi.Fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SupplierExample">
+  <component name="RunManager">
     <configuration name="BiFunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces.BiFunctionExample" />
+      <option name="MAIN_CLASS_NAME" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces.BiFunctionExample" />
       <module name="StreamsApi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces.*" />
+          <option name="PATTERN" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,11 +89,11 @@
       </method>
     </configuration>
     <configuration name="BinaryOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces.BinaryOperatorExample" />
+      <option name="MAIN_CLASS_NAME" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces.BinaryOperatorExample" />
       <module name="StreamsApi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces.*" />
+          <option name="PATTERN" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces.FunctionExample2" />
+    <configuration name="FunctionMethodReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.methodReferences.FunctionMethodReferenceExample" />
       <module name="StreamsApi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces.*" />
+          <option name="PATTERN" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.methodReferences.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +115,11 @@
       </method>
     </configuration>
     <configuration name="SupplierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces.SupplierExample" />
+      <option name="MAIN_CLASS_NAME" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces.SupplierExample" />
       <module name="StreamsApi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces.*" />
+          <option name="PATTERN" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +128,11 @@
       </method>
     </configuration>
     <configuration name="UnaryOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces.UnaryOperatorExample" />
+      <option name="MAIN_CLASS_NAME" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces.UnaryOperatorExample" />
       <module name="StreamsApi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces.*" />
+          <option name="PATTERN" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FunctionMethodReferenceExample" />
         <item itemvalue="Application.SupplierExample" />
         <item itemvalue="Application.BinaryOperatorExample" />
         <item itemvalue="Application.UnaryOperatorExample" />
         <item itemvalue="Application.BiFunctionExample" />
-        <item itemvalue="Application.FunctionExample2" />
       </list>
     </recent_temporary>
   </component>
@@ -347,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692718950910</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Project updates">
+      <created>1692724367518</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1692724367518</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,7 +397,8 @@
     <MESSAGE value="Fundamentals Update" />
     <MESSAGE value="Function added" />
     <MESSAGE value="Function updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Function updated" />
+    <MESSAGE value="Project updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project updates" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

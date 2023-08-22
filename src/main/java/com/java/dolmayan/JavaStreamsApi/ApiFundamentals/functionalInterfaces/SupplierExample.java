@@ -1,4 +1,4 @@
-package com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces;
+package com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces;
 
 import com.java.dolmayan.JavaStreamsApi.ApiFundamentals.model.Student;
 import com.java.dolmayan.JavaStreamsApi.ApiFundamentals.model.StudentDataBase;

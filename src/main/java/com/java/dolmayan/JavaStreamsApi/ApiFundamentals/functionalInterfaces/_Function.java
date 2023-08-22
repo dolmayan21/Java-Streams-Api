@@ -1,15 +1,11 @@
-package com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces;
+package com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces;
 
 import com.java.dolmayan.JavaStreamsApi.Service.InMemoryWorldDao;
 import com.java.dolmayan.JavaStreamsApi.dao.CountryDao;
 import com.java.dolmayan.JavaStreamsApi.domain.Country;
 
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.util.function.Consumer;
 import java.util.function.Function;
-import java.util.stream.Collectors;
 
 public class _Function {
 

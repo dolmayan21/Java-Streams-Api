@@ -1,9 +1,8 @@
-package com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces;
+package com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces;
 
 import com.java.dolmayan.JavaStreamsApi.ApiFundamentals.model.Student;
 import com.java.dolmayan.JavaStreamsApi.ApiFundamentals.model.StudentDataBase;
 
-import java.sql.SQLOutput;
 import java.util.List;
 import java.util.function.Predicate;
 

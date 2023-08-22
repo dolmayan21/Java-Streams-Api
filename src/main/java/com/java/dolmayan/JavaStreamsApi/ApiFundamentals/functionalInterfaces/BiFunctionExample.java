@@ -1,4 +1,4 @@
-package com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces;
+package com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces;
 
 import com.java.dolmayan.JavaStreamsApi.ApiFundamentals.model.Student;
 import com.java.dolmayan.JavaStreamsApi.ApiFundamentals.model.StudentDataBase;
@@ -10,6 +10,10 @@ import java.util.function.BiFunction;
 import java.util.function.Predicate;
 
 public class BiFunctionExample {
+
+    /**
+     * map
+     */
 
     static BiFunction<List<Student>, Predicate<Student>, Map<String, Double>> biFunction = ((students, studentsPredicate) ->
     {
