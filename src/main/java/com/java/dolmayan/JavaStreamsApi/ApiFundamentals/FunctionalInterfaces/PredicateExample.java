@@ -4,6 +4,10 @@ import java.util.function.Predicate;
 
 public class PredicateExample {
 
+    /**
+     * filter
+     */
+
     static Predicate<Integer> p = (i) -> i%2==0;
     static Predicate<Integer> p1 = (i) -> {return i%2==0;};
 

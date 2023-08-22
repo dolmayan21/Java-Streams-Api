@@ -7,6 +7,10 @@ import java.util.List;
 import java.util.function.Consumer;
 
 public class ConsumerExample {
+
+    /**
+     * forEach
+     */
     static Consumer<Student> c2 = (s) -> System.out.println(s);
     static Consumer<Student> c3 = (s) -> System.out.println(s.getName());
     static Consumer<Student> c4 = (s) -> System.out.println(s.getActivities());

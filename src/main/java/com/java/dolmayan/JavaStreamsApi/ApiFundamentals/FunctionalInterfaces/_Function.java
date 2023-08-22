@@ -12,6 +12,10 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class _Function {
+
+    /**
+     * map
+     */
     private static final CountryDao countryDao = InMemoryWorldDao.getInstance();
     public static void main(String[] args) {
 
