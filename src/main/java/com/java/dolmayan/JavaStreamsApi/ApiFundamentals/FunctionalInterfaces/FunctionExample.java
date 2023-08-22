@@ -16,5 +16,6 @@ public class FunctionExample {
 
         System.out.println("Result of andthen is : "+ function.andThen(addSomeString).apply("java 8 "));
 
+        System.out.println("Result of andthen is : "+ function.compose(addSomeString).apply("java 8 "));
     }
 }
