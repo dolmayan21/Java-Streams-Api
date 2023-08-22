@@ -1,4 +1,4 @@
-package com.java.dolmayan.JavaStreamsApi.ApiFundamentals;
+package com.java.dolmayan.JavaStreamsApi.ApiFundamentals.FunctionalInterfaces;
 
 import com.java.dolmayan.JavaStreamsApi.Service.InMemoryWorldDao;
 import com.java.dolmayan.JavaStreamsApi.dao.CountryDao;
