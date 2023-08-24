@@ -13,7 +13,11 @@ public class RefactorMethodReferenceExample {
      * filter
      */
 
-    static Predicate<Student> p1 = (s) -> s.getGradeLevel()>= 3;
+    static Predicate<Student> p1 =RefactorMethodReferenceExample::greaterThanGradeLevel;
+
+    public static boolean greaterThanGradeLevel(Student s){
+        return s.getGradeLevel() >= 3;
+    }
 
 
 

@@ -5,22 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a7dca68-e4cd-4e7c-aad7-84a147d38fa0" name="Changes" comment="Project updates">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/methodReferences/ConsumerMethodReferenceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/methodReferences/FunctionMethodReferenceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/methodReferences/RefactorMethodReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/Exercises/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/methodReferences/ConstructorReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/streams/StreamsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/streams/StreamsFlatMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/streams/StreamsMapExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/BiConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/BiConsumerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/BiFunctionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/BiFunctionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/BinaryOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/BinaryOperatorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/ConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/ConsumerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/FunctionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/FunctionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/FunctionExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/FunctionExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/PredicateAndConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/PredicateAndConsumerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/PredicateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/PredicateExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/PredicateExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/PredicateExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/SupplierExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/SupplierExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/UnaryOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/UnaryOperatorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/FunctionalInterfaces/_Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/functionalInterfaces/_Function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/methodReferences/RefactorMethodReferenceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/methodReferences/RefactorMethodReferenceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/model/StudentDataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/model/StudentDataBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -363,7 +355,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692724367518</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Project updates">
+      <created>1692731937741</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1692731937741</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
