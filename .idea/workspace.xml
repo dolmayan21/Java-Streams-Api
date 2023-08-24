@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a7dca68-e4cd-4e7c-aad7-84a147d38fa0" name="Changes" comment="Project updates">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/Exercises/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/methodReferences/ConstructorReferenceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/streams/StreamsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/streams/StreamsFlatMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/streams/StreamsMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/streams/StreamsComparatorExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/methodReferences/RefactorMethodReferenceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/methodReferences/RefactorMethodReferenceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/model/StudentDataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/model/StudentDataBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/streams/StreamsFlatMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/dolmayan/JavaStreamsApi/ApiFundamentals/streams/StreamsFlatMapExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,20 +61,7 @@
       <recent name="com.java.dolmayan.JavaStreamsApi.Fundamentals" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="BiFunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces.BiFunctionExample" />
-      <module name="StreamsApi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StreamsComparatorExample">
     <configuration name="BinaryOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.functionalInterfaces.BinaryOperatorExample" />
       <module name="StreamsApi" />
@@ -99,6 +81,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.methodReferences.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamsComparatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.streams.StreamsComparatorExample" />
+      <module name="StreamsApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.dolmayan.JavaStreamsApi.ApiFundamentals.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamsComparatorExample" />
         <item itemvalue="Application.FunctionMethodReferenceExample" />
         <item itemvalue="Application.SupplierExample" />
         <item itemvalue="Application.BinaryOperatorExample" />
         <item itemvalue="Application.UnaryOperatorExample" />
-        <item itemvalue="Application.BiFunctionExample" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692731937741</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Project updates">
+      <created>1692906215391</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1692906215391</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
