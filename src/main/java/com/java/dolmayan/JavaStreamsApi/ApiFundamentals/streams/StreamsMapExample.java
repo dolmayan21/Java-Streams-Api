@@ -10,7 +10,8 @@ import java.util.stream.Collectors;
 public class StreamsMapExample {
 
     public static List<String> namesList(){  // Convert one type to another type
-        List<String> studentList = StudentDataBase.getAllStudents().stream()  // Stream<Student>
+        List<String> studentList = StudentDataBase.getAllStudents()
+                .stream()  // Stream<Student>
                 // Student as an input -> Student Name
                 .map(Student::getName)  // Stream<String>
                 .map(String::toUpperCase)
