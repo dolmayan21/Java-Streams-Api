@@ -61,7 +61,7 @@ public class StreamGroupingByExample {
 
     public static void main(String[] args) {
 
-        //groupStudentsByGender();
+        groupStudentsByGender();
         System.out.println();
         //customizedGroupingBy();
         System.out.println();
@@ -69,7 +69,7 @@ public class StreamGroupingByExample {
         System.out.println();
         //twoLevelGrouping_2();
         System.out.println();
-        threeArgumentGroupBy();
+        //threeArgumentGroupBy();
 
     }
 }
